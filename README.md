@@ -11,7 +11,7 @@ Make sure you have Node.js installed on your machine.
 ### Installation
 
 Clone the repository:
- git clone https://github.com/your-username/starwars.git
+ git clone https://github.com/inder100/starwars06
 
 Navigate to the project directory:
  cd starwars
